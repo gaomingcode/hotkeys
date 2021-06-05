@@ -1,5 +1,19 @@
 # Hotkeys
 
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/hotkeys.svg)](https://github.com/gaomingcode/hotkeys)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/hotkeys)](https://github.com/gaomingcode/hotkeys)
+[![Github License](https://img.shields.io/github/license/gaomingcode/hotkeys)](https://github.com/gaomingcode/hotkeys)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/hotkeys
+```
+
+## ReadMe from Origin
+
 <!--dividing-->
 
 [![](https://img.shields.io/github/issues/jaywcjlove/hotkeys.svg)](https://github.com/jaywcjlove/hotkeys/issues) [![](https://img.shields.io/github/forks/jaywcjlove/hotkeys.svg)](https://github.com/jaywcjlove/hotkeys/network) [![](https://img.shields.io/github/stars/jaywcjlove/hotkeys.svg)](https://github.com/jaywcjlove/hotkeys/stargazers) [![](https://img.shields.io/github/release/jaywcjlove/hotkeys.svg)](https://github.com/jaywcjlove/hotkeys/releases) ![](http://jaywcjlove.github.io/sb/status/no-dependencies.svg) [![Build Status](https://www.travis-ci.org/jaywcjlove/hotkeys.svg?branch=master)](https://www.travis-ci.org/jaywcjlove/hotkeys) [![Coverage Status](https://coveralls.io/repos/github/jaywcjlove/hotkeys/badge.svg?branch=master)](https://coveralls.io/github/jaywcjlove/hotkeys?branch=master) [![jaywcjlove/hotkeys](https://jaywcjlove.github.io/sb/lang/chinese.svg)](./README-zh.md) [![jaywcjlove/hotkeys](https://jaywcjlove.github.io/sb/ico/gitee.svg)](https://gitee.com/jaywcjlove/hotkeys)

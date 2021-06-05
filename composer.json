@@ -1,0 +1,20 @@
+{
+    "name": "gaomingcode/hotkeys",
+    "description": "A simple micro-library for defining and dispatching keyboard shortcuts. It has no dependencies.",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "hotkey", "hotkeys", "hotkeys-js", "hotkeysjs", "key", "keys", "keyboard", "shortcuts", "keypress"
+    ],
+    "homepage": "http://jaywcjlove.github.io/hotkeys",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Kenny Wong",
+            "email": "wowohoo@qq.com"
+        }
+    ]
+}
